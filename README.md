@@ -8,6 +8,7 @@ pip install requests
 ```
 #### 路径问题
  ```bash
- 第10行alice_path = 'C://Tools//VScode Work//Python//aiml'修改为当前文件所在路径
- 第80行修改为chromedriver所在目录下
+ 第13行alice_path = ''修改为当前文件所在路径
+ 第63行填入自己的天气api
+ 第83行修改为chromedriver所在目录下
  ```
